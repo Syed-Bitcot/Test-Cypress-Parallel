@@ -1,0 +1,11 @@
+{
+  "name": "Test-Cypress-Parallel",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:Syed-Bitcot/Test-Cypress-Parallel.git",
+  "author": "Syed-Vtex <syed.mujeeb@vtex.com.br>",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^12.5.1"
+  }
+}
